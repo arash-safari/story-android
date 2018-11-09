@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Base</string>
+    <string name="error_noConnection">اینترنت در دسترس نیست</string>
+    <string name="error_timeout">خطای اتمام زمان درخواست</string>
+    <string name="error_server">خطای سرور</string>
+    <string name="error_network">خطای شبکه</string>
+    <string name="error_unknown">خطای ناشناخته</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="cancel">لغو</string>
+    <string name="msg_connected_to_network">دستگاه به اینترنت متصل شد</string>
+    <string name="loading">لطفا کمی صبر کنید</string>
+    <string name="ok">باشه</string>
+    <string name="no_error">بدون خطا</string>
+    <string name="error_parameter_wrong">ورودی اشتباه</string>
+    <string name="error_json_format">درخواست اشتباه</string>
+    <string name="error_phone_not_found">شماره موبایل یافت نشد</string>
+    <string name="error_authentication">لطفا دوباره از حساب خود خارج شده و دوباره وارد شوید</string>
+    <string name="error_code_invalid">کد تاییدیه اشتباه است</string>
+    <string name="error_user_access">شما به این بخش دسترسی ندارید</string>
+    <string name="error_status">وضعیت اشتباه</string>
+    <string name="error_retry_code">لطفا بعد از چند دقیقه دوباره امتحان کنید</string>
+    <string name="error_application">خطای برنامه</string>
+    <string name="error_repeative_load">شما قبلا برای این بار درخواست داده اید.</string>
+    <string name="error_balance">حق اشتراک شما به اتام رسیده است</string>
+    <string name="error_charge">موجودی حساب شما کافی نیست</string>
+</resources>

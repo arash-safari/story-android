@@ -1,0 +1,44 @@
+{
+  "article":{
+    "title":"abdolah va astolah",
+    "src":"",
+    "viewCount":"2832",
+    "likeCount":"199",
+    "commentCount":"20",
+    "author":"shamsolah",
+    "authorProfile":"shamsi",
+    "rightSpeaker": "abdolah",
+    "leftSpeaker":"astolah"
+  },
+  "data": [
+    {
+      "speaker":"right",
+      "type": "dialog",
+      "text": "salam",
+      "imageSrc": ""
+    },
+    {
+      "speaker":"left",
+      "type": "dialog",
+      "text": "salam chetori",
+      "imageSrc": ""
+    },
+    {
+      "speaker":"right",
+      "type": "dialog",
+      "text": "che khabar",
+      "imageSrc": ""
+    },
+    {
+      "type": "action",
+      "text": "ie done action",
+      "imageSrc": ""
+    },
+    {
+      "type": "image",
+      "speaker":"right",
+      "text": "ie done action",
+      "imageSrc": ""
+    }
+  ]
+}

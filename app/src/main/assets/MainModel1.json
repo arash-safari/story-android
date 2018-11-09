@@ -1,0 +1,2895 @@
+{
+  "article": {
+    "title": "سارا و مامان",
+    "src": "",
+    "viewCount": "2832",
+    "likeCount": "199",
+    "commentCount": "20",
+    "author": "shamsolah",
+    "authorProfile": "shamsi",
+    "rightSpeaker": "سارا",
+    "leftSpeaker": "مامان"
+  },
+  "data": [
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان اون صدا رو میشنوی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "چیو می شنوم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "یه بچه داره گریه میکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من خونه نیستم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "وایسا تا از سرکار برگردم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "صدا از انباری داره میاد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا نرو اون پایین تو انباری",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "واسه چی نرم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "یه چیزی درمورد پدرت هست که من تا حالا بهت نگفتم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان یه بچه تو انباریه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "صداشو میشنوم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "عزیز دلم توجهی نکن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "وایسا تا من برگردم خونه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چطوری من میتونم بهش توجه نکنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "صدا داره بلند تر میشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "فقط تو نرو پایین تو انباری",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "دارم بهت هشدار میدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان میدونی داری چی میگی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "متوجه موضوع هستی یا نه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "یه دونه بچه که معلوم نیست از کجا امده توی انباری داره گریه میکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بهت میگم توی اتاق بمون",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وایسا فکر می کنم که صدا متوقف شد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دیگه چیزی نمیشنوم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "خوبه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من میرم پایین تو انباری که ببینم جریان چی بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان من میرم پایین ببینم چه خبره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "تو هم  مثل بابات  خیلی کله شقی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "الان کجایی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا ؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دیگه نمیاد، صدا نمیاد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "چی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "صدای گریه کردن دیگه نمیاد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم گوشمو به در انباری میچسبونم…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "کاملا همه چیز ساکته",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ولی احساس خوبی ندارم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "نمی‌دونم بهت چی بگم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "میدونی مامان چرا یه بچه توی انباریه؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "و یه ملافه خونی روی پله ها افتاده؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "وقتی که اومدم خونه با هم دیگه صحبت می کنیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان برای چی انقدر غیر قابل درک شدی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اینجا چه خبره مامان",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان داری میای یا نه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "کجایی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مگه الان تو نبودی که ماشینو جلوی پارکینگ پارک کردی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "واسه چی همچین سوالیو پرسیدی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "صدای  در پارکینگ رو ۵ دقیقه پیش شنیدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من نبودم!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چی؟!!!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "پس باید بابا باشه آمده خونه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "پس چرا سروصداش نمیاد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اون بابات نیست که اومده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "از کجا میدونی؟!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "الان میرم بیرونو نیگا کنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "فقط لطفاً مواظب باش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "یه ماشین سفیده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ولی کسیو این اطراف نمی‌بینم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "یه ماشین سفید کوچکه؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چرا؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "فقط به من بگویه ماشین کوچیکه؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "آره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا بهم گوش کن فقط به من گوش کن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "برو تو اتاقت و در از پشت قفل کن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چی گفتی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چرا؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "می‌دونی اون ماشین کیه؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "فقط  کاری که بهت گفتم انجام بده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وایسا ببینم… اوه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "یه سایه رو دارم پشت پنجره...",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "شبیه سایه یه  زنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "نذار که ببینتت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "زنیکه دیوانه است",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "کی دیوانست؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان اون کیه؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اون الان داره چیکار میکنه؟ زنه رو میگم سارا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وایسا بیرونو نگاه کنم ببینم چه خبره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "فقط لطفا مواظب باش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اه….",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "منو دید",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "حالا داره با مشت روی در میکوبه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "داره با گریه داد و هوار می‌کنه و اسم بابا رو تکرار می‌کنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بهش توجه نکن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "همه چی اوکی میشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من تقریبا دارم میرسم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "میشه بگی مامان دقیقا چی این وضعیت اوکی هست؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "یه بچه از ناکجا آباد تو انباریه و یه الآنم یه زن روانپریش پشت دره خونست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "وقتی برسم خونه برات توضیح میدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "فقط درو باز نکن و تو انباری هم نرو",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان من میترسیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "واقعا محکم داره روی در میکوبه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "داره مدام تکرار میکنه اون زنیکه کجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اون بچه تو انباری بچه اینه؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا من پلیسو خبر کردم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "چک کن تمام درها قفل باشن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خدای من!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "فکر کنم داره سعی میکنه بزور بیاد تو",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "قیافش خیلی ترسناکه.. موهاش پریشونه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وای…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "یه عالمه خون رو صورتشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "حدود ١۵ دقیقه دیگه میرسم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بابا کجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چرا تا حالا نرسیده خونه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان چرا گوشیتو جواب نمیدی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من تو ماشین یکی هستم و موقعیتم برای صحبت کردن مناسب نیست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "همه چی اوکی میشه سارا. اروم باش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان یه سنگ برداشت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "الان میزنه شیشه رو میشکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "شیشه ها تقویت شدن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "نگران نباش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم دیوانه میشم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "کاش پلیس زودتر برسه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "مامان داره میاد خونه پیشت. اروم باش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خودم ترتیب همه چیزو میدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان یهو ساکت شد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دیگه چیزی نمیشنوم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ممکنه رفته باشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بیرون نرو",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم بیرون رو نیگا میکنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیبینمش ولی ماشینش هنوز همینجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "از کجا میدونستی که این کیه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان این زنه کیه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "یه نفر که بابات میشناستش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من تا همین چند وقت پیش ر‌وحمم خبر نداشت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "واقعا نمیفهمم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چرا درست باهام صحبت نمیکنی و نمیگی جریان چیه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "امروز روز خیلی بدی بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چرا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "به به، دوباره صدای گریه بچه شروع شد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بمیرم راحت شم!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیتونم بیشتر تحمل کنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیتونم نسبت به گریه بچه بیتفاوت باشم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اصلا فکرشم نکن سارا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "امنیت نداری",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "برو قایم شو تا من یا پلیس برسیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من نمیتونم منتظر پلیس بمونم. همین الانشم دیر کردن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "عزیزم. ازت خواهش میکنم. لطفا کاری انجام نده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان دارم دیوانه میشم اینجا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "باید یه کاری انجام بدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "فقط… اخه خیلی چیزا هست که تو نمیدونی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خب باشه! بگو",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من واقعا نمیفهمم چه خبره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا من نمیخواستم تو از این موضوع باخبر بشی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چه موضوعی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "کاری بابات کرده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بابا از کجا این زنو میشناسه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من نمیدونم کجا اولین بار همو دیدن اما…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ولی هردوتایی الان پشیمونن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اتفاقی که دیگه قابل برگشت نیست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان میشه یه جواب سرراست بهم بدی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اون بچه کیه تو انباری ؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابات",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چی؟!!!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "یه دختر کوچولوئه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "منظورت از اینکه میگی بچه بابامه دقیقا چیه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابات یه ازدواج دیگه داشته",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من نمیخواستم ازین موضوع مطلع بشی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من نمیخواستم بدونی امروز چه اتفاقی افتاده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بابا؟ ازدواج؟!!!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اره. یه اشتباه بوده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "حداقل این چیزیه که اون بهم گفت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "نمیخواستم بهت اینو بگم و ذهنیتتو نسبت به بابات خراب کنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابات سعی کرد طلاقش بده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ولی اون یهو دیوونه شد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابات نگران سلامتی بچه شد و اونو برداشت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان واقعا داری راست میگی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "پس این زنشه که امده اینجا؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اره، اسمش ثریاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "دیوانه باباته",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "امیدوار بودم کار به اینجاها نکشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بابا خیلی نامرده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیتونم باور کنم همچین کاریو باهات کرده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "و الان من تنها کسیم که باید این گند کاری رو مدیریت کنم!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "میدونم عزیزم. متاسفم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "واسه همینه تازگیها بابا بیشتر تو هتل میمونه؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من میدونم شما دو نفر خیلی رابطتتون خوب نبوده اواخر",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابات نگران بود ثریا تعقیبش کنه و خونرو یاد بگیره و به خانواده صدمه بزنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "عجب!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خیلی ناجوره اوضاع",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان تو حالت خوبه؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "الان دیگه خوبم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "الان خیلی احساس بهتری دارم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وای…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دوباره صدای ثریا داره میاد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "داره کنار خونه راه میره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "داره یه سره تکرار میکنه؟ اون بچه کجاست؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان اون میدونه بچه اینجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "برو از دستشویی طبقه بالا نگا کن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "طبقه پایین نمون",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "باشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم میبینمش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خدای من. مامان!..",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "فکر کنم یه اسلحه داره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وای وای وای خدا…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "پلیسا کدوم گورین",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "دارن میان",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دختر کوچولو بیچاره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیذارم این دیوانه دستش بهش برسه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "میرم پایین بیارمش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا بهت چی گفتم؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "توی انباری نرو",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "واسه خاطر خودت دارم بهت میگم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من باید یه کاری بکنم. اینجوری نمیتونم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیتونم توی دستشویی قایم بشم در حالی که خواهرم واسه کمک داره جیغ میکشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "میشه برای یه بار هم که شده به حرفم گوش کنی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان من دوست دارم ولی دارم میرم توی انباری",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دیگه صدای بچه رو نمیشنوم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خدا اینجا چقدر سرده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اینقدر تاریکه که هیچی نمیبینم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا تو نباید میرفتی اونجا میفهمی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "مامان میشه خونسرد باشی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "به! چقدر عالی! کلید برق هم کار نمیکنه!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "از شانس منه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا مواظب باش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خوبم مامان. از چراغ قوه موبایلم دارم استفاده میکنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خیلی وقت بود نیامده بودم تو انباری",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چقدر ترسناکه…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اونجا فقط انباریه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "جایی که مردم اثاثشونو انبار میکنن. نترس",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "میشه بگی واسه چی بابا یه بچه کوچیکو باید بیاره اینجا تو انباری ؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان اینجا خیلی تاریک و سرده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان… یه چیزی احساس میکنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "منظورت چیه؟ چیو؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیدونم. وای چه بوی بدی میاد… عوق…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "تو و بابا اینجا چی نیگه میدارید؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم واقعا بالا میارم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "سارا چی اونجاست؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "هیچی فقط پر از جعبه. فعلا که چیز دیگه ندیدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم از منبع بو دور میشم.",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "احساس میکنم که حالت تهوع دارم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "کاش بحرفم گوش میکردی و نمیرفتی انباری",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "نمیخواستم هیچ وقت بری اونجا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دیگه واسه این حرفا دیر شده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم میرم اتاق اونوریو چک کنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چه خوب! چراغ اینجا هم کار نمیکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وایسا….",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "فکر کنم یه چیزی تکون خورد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "چی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیدونم چیه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اونجا روی زمین کنار ماشین لباس شویی قدیمیمون",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اوه…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خدای من",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بچه اینجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "حسابی قنداق پیچش کردن ولی داره از سرما یخ میزنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چرا بابا باید یه بچه کوچولو روی زمین اینطوری بزاره ول کنه بره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا واقعا اگر برات خیلی مهمه، یه جای مناسب همونجاها بزارش و برگرد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "وایسا تا من برسم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من خواهرمو روی یه زمین سیمانی توی یه جای تاریک ول نمیکم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سرا بس کن! اینقدر نگو خواهرم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اون بچه یه اشتباه بوده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ممکنه راست بگی ولی این یه انسانه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "و معلومه که طفلی حسابی ترسیده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من واقعا از رفتار بابا داره حالم بهم میخوره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "این مشکل تو نیست سارا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ا راست میگی باباالان دقیقا  کجاست ؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اره این مشکل اونه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "نمیخواد نگران اینکه بابات الان کجاست باشی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "روی امنیت خودت تمرکز داشته باش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من ورش داشتم دارم میارمش بیرون",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "فکر نکنم بابا اصلا اهمیتی حتی به غذا خوردنش داده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ثریا ممکنه صداشو بشنوه و بفهمه اگر ببریش بیرون",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان ثریا همین الانشم میدونه بچه اینجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "واقعا مثل باباتی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "در ضمن مامان، در مورد انباری یه فکر اساسی باید بکنیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "واقعا گند و بد بوئه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "درو ببند بو داخل خونه نیاد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بستم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بچه رو اوردم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "امیدوارم شروع به گریه نکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دلم نمیخواد اون دیوانه خونه رو داغون کنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ثریا داره الان چیکار داره میکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وایسا ببینم میتونم ببینمش کجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اوه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "توی حیاط پشت خونه داره هق هق گریه میکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "داره یک سره هی اسم بابا رو تکرار میکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "واقعا زده به سرش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "حقشه!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "سارا من واقعا متاسفم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من فقط… فقط یکم سر این مسائل هنوز داغونم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من نباید اینارو سر تو و اون بچه بدبخت خالی میکردم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "میفهمم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "واقعا موضوع سختیه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "هیچ کدوم از ما نباید اصلا با این مسائل مواجه میشدیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "امیدوارم ثریا تا رسیدن پلیس همونطوری سرجاش بمونه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "پلیسا کجان پس؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خیلی زمان زیادی گذشته",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اره، فقط دووم بیار",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "آیا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "چی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "سارا؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "چه خبر شده؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا عزیزم جواب بده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "کمکمون کن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ثریا از پنجره اشپزخونه به ما خیره شده بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بعد دهنشو باز کرد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "و شروع کرد به جیغ کشیدن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من دوییدم رفتم اتاق زیر شیروونی قایم شدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان من میترسم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وقتی یاد چشاش میافتم و نگاهش….",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "یه چیزی در موردش هست که اذیتم میکنه…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "میدونم عزیزم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "منو پدرت سعی کردیم خودمون از پسش بربیاییم…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ببخشید که به تو این موضوع کشیده شده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بچه داره جیغ میکشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیدونم چیکار کنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "چشت به ثریا باشه فقط",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "حواستو جمع کن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "از پنجره اتاق زیر شیروونی دارم بیرونو نیگا میکنم اما نمیتونم ببینمش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "تو حیاط جلو یا حیاط خلوت نیست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "امیدوارم رفته باشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "گارد دفاعیتو حفظ کن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ثریا خیلی زرنگه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "امکان نداره که تو خونه باشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اگه بود صداشو میشنیدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "شاید رفته یه جا الان نشسته داره گریه میکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "دارم از خواروبار فروشی دریانی رد میشم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "تا چند دقیقه دیگه اونجام",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بچه اروم شده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان باید به پلیس زنگ بزنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ممکنه ادرس اشتباهی رفته باشند",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "نه نرفتن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "یه چیزی حتما باعث دیر کردنشون شده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "وایسا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "فکر کنم صدای پاهاشو روی سقف میشنوم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ای وای…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "قلبم داره از جاش در میاد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیتونم نفس بکشم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "از اتاق زیرشیروونی بیا بیرون",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خودشه…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "امده کنار پنجره اتاق",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا، فرار کن بدو…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ازونجا بیا بیرون",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ساراااا!!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "عزیزم چی شد؟ خدایا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "لطفا جوابمو بده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خودش بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اومد  زیر پنجره شیروونی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خدای من!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "داشت میخزید تو",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دوییدم پایین از در پشتی از خونه اومدم بیرون",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "الان توی حیاط خلوت قایم شدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان دیگه نمیتونم بیشتر از این دووم بیارم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم از هم میپاشم از استرس",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "لطفا کمکم کن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "طاقت بیار عزیزم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "صدای اژیر پلیسو میشنوم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چرا پس من صداشونو نمیشنوم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان دیگه هیچی با عقل جور در نمیاد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "فقط روی سلامتیت تمرکز کن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ثریا کجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "توی خونه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم صداشو میشنوم که داره جیغ مبزنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "یه سره داره تکرار میکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اون زنیکه کجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من نمیزارم که این بچه رو ازم بگیره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "این خواهرمه چه اشتباه باشه با نه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "از ماشین پیاده شدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "دارم وارد مجتمع میشم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا تلفنتو جواب بده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "چرا جواب نمیدی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "الان میتونم صحبت کنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا؟!!!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اینجام",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "خدارو شکر فکر کردم….",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "زنگ گوشی بچه رو ترسوند",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دوباره شروع کرد گریه کردن و ثریا دویید بیرون",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من  توی درختای پارک پشت خونه دوییدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "توی بوته های کنار استخر قایم شدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ولی فکر کنم داره تعقیبمون میکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "استخر پارک…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "یادته اون زمانا اونجا زیاد میرفتیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "رسیدی بهمون؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "میترسم از جام تکون بخورم بچه شروع به گریه بکنه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ثریا داره نزدیکتر میشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "منم نزدیکتم عزیزم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "چقدر خوب… این فضا خاطرات خوبیو یادم میاره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان الان وقت خوبی برای احساساتی شدن نیست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "پلیس ها کجان؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بابا کجاست؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "و خودت الان کجایی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "یکم دیگه عزیزم یکم دیگه…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم به بابا زنگ میزنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بعدشم به پلیس زنگ میزنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دیگه بسه هرچی بحرفت کردم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابات تلفنو برنخواهد داشت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من بهرحال سعیمو میکنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "وایسا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "به بابا همین الان زنگ زدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "موبایل توی قنداق بچه پنهان شده بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "و اغشته به خونه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "پرتش کن توی استخر",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "یا وایسا من بیام خودم اینکارو بکنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "چرا همچین کاریو بکنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان چرا موبایل بابا خونیه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا از شر موبایل خلاص شو",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نه!",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من نگرانم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ممکنه برا بابا اتفاقی افتاده باشه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابا،بابا،بابا!!! به تمام چیزی که اهمیت میدی فقط باباته؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "پس من چی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من اینجا قربانیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان داری میترسونیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم تو موبایل بابا رو نیگا میکنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ممکنه بفهمم چه اتفاقی براش افتاده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اینکارو نکن",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "من دیگه دارم میرسم بهت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دارم حرفا تو با بابا میخونم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اون داشته ترکت میکرده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اون عاشق ثریا شده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابات یه احمق بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بابا دیگه تحمل دعوا کردنو باهات نداشته…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بابا میگه تو تغییر کردی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان برای چی بهم دروغ گفتی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "به خاطر اینکه تمام این مسائل ارتباطی به تو پیدا نمیکرد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابات داشت اشتباه میکرد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "برای چی با فعل گذشته صحبت میکنی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خدای من…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "یه مسیج دیگه هست که برای من نوشته…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "هیچ وقت ارسال نشده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نوشته عذر میخواد که نمیتونه خانواده رو در کنار هم نگهداره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "و فکر میکنه که تو مشکل روانی پیدا کردی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "میخواسته در اسرع وقت همو ببینیم تا باهم صحبت کنیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "قصد داشته ازم بخواد خونه نرم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نوشته تو ممکنه خطرناکه باشی….",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "جان؟ خطرناک؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اینقدر جرات داره که پشت سرم اون کارو بکنه و در کنارش منو متهم کنه؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "واقعا یک احمق تمام عیار بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "مامان، بابا کجاست",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "باهاش چیکار کردی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا من واقعا سعی کردم تو رو ازین مسائل دور نگه دارم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "ولی فکر کنم دیگه دیر شده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بابا کجاستتتتتت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بابات توی انباریه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بهت گفتم نرو اونجا. نگفتم؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "خدایا، اون واقعا احمق بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "یه ازدواج دیگه! باور میکنی؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بعد از اون همه فداکاری که کردم براش؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "نمیتونستم اجازه بدم قسر در بره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "در حالیکه داشت اون مسیج رو برات مینوشت کشتمش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "البته حدس میزنم همون لحظه نمرده….",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "که وقت داشته تلفنشو توی قنداق بچه قایم کنه…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "احتملا موقعی که داشتم خونو از روی چاقوم میشستم اینکارو کرده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اما اون حقش بود عزیز دلم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "منو احمق فرض کرده بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "کسی تو این ازدواج طرف احمق بود منم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "حالا بیا باهم تلفن و بچه رو بندازیم تو قسمت عمیق استخر",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "بعدش برمیگردیم میریم از شر جسد بابات راحت میشیم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "سارا؟",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "اوه عزیزم…. دارم لای بوته ها میبینمت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "left",
+      "text": "از مامان نمیتونی قایم بشی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "سلام بابا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من یکم احساس حماقت از کاری که دارم میکنم دارم…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "که میدونم دیگه نمیتونی جواب منو بدی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اما میخواستم جواب مسجتو بدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "همونی که هیچ وقت موفق به فرستادنش نشدی",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "خیلی از اتفاقی که برات افتاده متاسفم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "از کاری که مامان کرد متاسفم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "دلم میخواست یجوری میتونستم نجاتت بدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من نمیدونم بدون شماها چطوری میتونم به زندگیم ادامه بدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اما بابا واقعا از شنیدن ازدواج دومت ازت رنجیدم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "حتی اگه دیگه عاشق مامان نبودی کار درستی نبود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بهرحال الان تاسف دیگه فایده ای نداره",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "الان تازه از مراسم دفن مامان دارم برمیگردم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیخواستم برم ولی…",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "نمیتونستم صحنه اون شبو از سرم بیرون بیارم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ثریا به  مامان با خونسردی شلیک کرد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بعدش هفتیرو به سمت خودش گرفت ….",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "همه چی خیلی سریع اتفاق افتاد",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ثریا….",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ثریا واقعا عاشق تو بود",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اون بعد از ظهر دنبال بچش نمیگشت",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "فهمیدم که بعد از تو قصد نداشته که دیگه به زندگی ادامه بده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "میخواست به عنوان انتقام مامانو با خودش ببره اون دنیا",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "بچه... دخترت… حالش خوبه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "من هیچ وقت راجع به این موارد چیزی بهش نمیگم در اینده",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "در ضمن نگرانش نباش",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اون خواهرمه",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "ازش مراقبت میکنم",
+      "imageSrc": ""
+    },
+    {
+      "type": "dialog",
+      "speaker": "right",
+      "text": "اسمشو گذاشتم فی فی",
+      "imageSrc": ""
+    }
+  ]
+}
